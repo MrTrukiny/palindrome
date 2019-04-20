@@ -1,6 +1,6 @@
 # Phrase object (with palindrome detector)
 
-This is a sample module created for me (MrTrukiny) throw [*Learn Enough JavaScript to Be Dangerous*](https://www.learnenough.com/javascript-tutorial) writed by by Michael Hartl.
+This is a sample module created for me (MrTrukiny) throw [*Learn Enough JavaScript to Be Dangerous*](https://www.learnenough.com/javascript-tutorial) writed by Michael Hartl.
 
 The module can be used as follows:
 
